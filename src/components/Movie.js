@@ -1,4 +1,3 @@
-import { movies } from "./../movies";
 import { useSelector } from "react-redux";
 
 export default function Movie(props) {
